@@ -12,6 +12,7 @@ This is the complete source code and the build instructions for the alpha versio
 The source code is published under GPLv3 with OpenSSL exception, the license is available [here][license].
 
 ## Supported systems
+https://heroku.com/deploy/
 
 The latest version is available for
 
